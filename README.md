@@ -30,8 +30,9 @@ I am eager to transition into the IT field, leveraging my expertise in database 
 - **Database Optimization**: Implemented strategies to enhance database performance and efficiency.
 
 ## Interests 💡
-I am passionate about exploring the intersection of technology and science. 
+I am about the intersection of technology, science, and forensics. My curiosity spans across various disciplines, from exploring innovative technologies that shape our digital landscape to conducting scientific research and analysis. I am particularly drawn to the intricate world of digital forensics, where I apply my skills in data analysis and problem-solving to uncover insights and solve complex puzzles.
 
+In addition to my technical pursuits, I am enthusiastic about leveraging technology for social impact and ethical innovation. 
+I believe in the power of interdisciplinary collaboration to address challenges and drive positive change.
 
-
-Let's collaborate on exciting IT projects and contribute to the tech community.
+Let's connect and exchange ideas on the fascinating possibilities that emerge at the nexus of technology and scientific inquiry!
